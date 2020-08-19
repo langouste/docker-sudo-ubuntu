@@ -6,7 +6,7 @@ This image can be used for development and test but not in production.
 
 ## Supported tags and `Dockerfile` links
 
-* [`20.04`,`latest`](https://github.com/langouste/docker-sudo-ubuntu)
+* [`20.04`,`latest`](https://github.com/langouste/docker-sudo-ubuntu/blob/master/Dockerfile)
 
 ## Usage
 
